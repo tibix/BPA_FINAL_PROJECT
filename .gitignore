@@ -1,0 +1,16 @@
+env/
+.vscode/
+florarie_vue/.env.local
+florarie_vue/.env.*.local
+florarie_vue/npm-debug.log*
+florarie_vue/yarn-debug.log*
+florarie_vue/yarn-error.log*
+florarie_vue/pnpm-debug.log*
+florarie_vue/node_modules/
+florarie_vue/.idea
+florarie_vue/.vscode
+florarie_vue/*.suo
+florarie_vue/*.ntvs*
+florarie_vue/*.njsproj
+florarie_vue/*.sln
+florarie_vue/*.sw?
